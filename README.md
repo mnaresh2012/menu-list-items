@@ -2,7 +2,7 @@
 React Experiment - ( Project 02 )
 Basic  Restaurant App to practice the React, React-Router and Axios.
 
-### Chat Application -
+### Restaurant Menu List Application -
 ![alt text](restaurant_menu.gif)
 
 ### Dependencies -
