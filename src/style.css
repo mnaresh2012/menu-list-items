@@ -6,3 +6,16 @@ body {
 .main {
     margin: 0 10px;
 }
+.menuItem {
+    text-align: center;
+    width: 350px;
+    margin: 0 auto 10px auto;
+    border-bottom: 1px dashed chocolate;
+}
+.imgContainer img {
+    border-radius: 15px 15px;
+}
+
+.itemDetail h3 {
+    color: chocolate;
+}

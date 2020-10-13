@@ -10,6 +10,8 @@ import MainPageComponent from './components/pages/MainPageComponent';
 import DessertPageComponent from './components/pages/DessertPageComponent';
 import SaladPageComponent from './components/pages/SaladPageComponent';
 
+import './style.css';
+
 class App extends Component {
   render() {
     return (

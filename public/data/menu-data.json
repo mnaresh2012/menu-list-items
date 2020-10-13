@@ -107,64 +107,54 @@
     {
       "title": "Oriental Tuna Salad",
       "description": "Pears, toasted walnuts brought together with a lemon, olive oil dressing and Parmesan shavings.",
-      "imgPath": "salad_01.jpeg"
+      "imgPath": "./data/images/salad/salad_01.jpeg"
     },
     {
       "title": "Caesar salad",
       "description": "Crisp romaine lettuce Caesar salad. garlic croutons, Parmesan, also served with chicken.",
-      "imgPath": "salad_02.jpeg"
+      "imgPath": "./data/images/salad/salad_02.jpeg"
     },
     {
       "title": "Greek Salad",
       "description": "Iceberg and romaine lettuce tossed with a red wine vinaigrette and Greek feta cheese.",
-      "imgPath": "salad_03.jpeg"
+      "imgPath": "./data/images/salad/salad_03.jpeg"
     },
     {
       "title": "Chicken and smoked bacon salad",
       "description": "Dressed mixed lettuce. grilled lemon and thyme chicken supreme. smoked German bacon.",
-      "imgPath": "salad_04.jpeg"
+      "imgPath": "./data/images/salad/salad_04.jpeg"
     },
     {
       "title": "Oriental Tuna Salad",
       "description": "Grilled seared tuna served with julienne of vegetables with oriental dressing.",
-      "imgPath": "salad_05.jpeg"
+      "imgPath": "./data/images/salad/salad_05.jpeg"
     }
   ],
-  "DESERT": [
+  "DESSERT": [
     {
       "title": "Blueberry Cheese cake",
       "description": "Philadelphia cheese cake glazed with blueberry compote",
-      "imgPath": "dessert_01.jpg"
+      "imgPath": "./data/images/dessert/dessert_01.jpeg"
     },
     {
       "title": "Eggless chocolate cake",
       "description": "Egg less chocolate cake topped with walnut, chocolate and sugar",
-      "imgPath": "dessert_02.jpg"
+      "imgPath": "./data/images/dessert/dessert_02.jpeg"
     },
     {
       "title": "Chocolate pudding",
       "description": "Warm chocolate pudding with n moist center.",
-      "imgPath": "dessert_03.jpg"
+      "imgPath": "./data/images/dessert/dessert_03.jpeg"
     },
     {
       "title": "Chocolate Brownie",
       "description": "Freshly made chocolate brownie with walnuts",
-      "imgPath": "dessert_04.jpg"
+      "imgPath": "./data/images/dessert/dessert_04.jpeg"
     },
     {
       "title": "Apple Crumble",
       "description": "Apple crumble with vanilla custard",
-      "imgPath": "dessert_05.jpg"
-    },
-    {
-      "title": "Walnut Flan",
-      "description": "Walnut flan caramel sauce Chantilly cream",
-      "imgPath": "dessert_06.jpg"
-    },
-    {
-      "title": "Bread and butter Pudding",
-      "description": "Bread and butter pudding ot the day sewed with custard",
-      "imgPath": "dessert_07.jpg"
+      "imgPath": "./data/images/dessert/dessert_05.jpeg"
     }
   ]
 }
