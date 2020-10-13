@@ -2,8 +2,11 @@
 React Experiment - ( Project 02 )
 Basic  Restaurant App to practice the React, React-Router and Axios.
 
-###Dependencies -
-ReactJS,React-Router and Axios
+### Chat Application -
+![alt text](restaurant_menu.gif)
+
+### Dependencies -
+ReactJS, React-Router and Axios
 
 ### Initialization -
 After cloning the project to local path to run the application, follow the below steps.
@@ -15,7 +18,7 @@ npm install - to install all dependencies
 npm start - to start the server
 ```
 
-###Changelog -
+### Changelog -
 > 0.0.1: BETA version
 
 ### Licence [![License version](http://img.shields.io/badge/License-MIT-red.svg)]()
