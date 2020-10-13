@@ -1,8 +1,8 @@
-# menu-list-items [![GitHub version](http://img.shields.io/badge/version-0.0.1-brightgreen.svg)]()
+# Restaurant Menu List Application [![GitHub version](http://img.shields.io/badge/version-0.0.1-brightgreen.svg)]()
 React Experiment - ( Project 02 )
 Basic  Restaurant App to practice the React, React-Router and Axios.
 
-### Restaurant Menu List Application -
+### Application Overview -
 ![alt text](restaurant_menu.gif)
 
 ### Dependencies -
